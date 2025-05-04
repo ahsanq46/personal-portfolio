@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Weatherly Android",
+    "desc": "Responsive weather app built with React and Tailwind CSS, using OpenWeatherMap API to display real-time weather updates.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://ahsanq46.github.io/weather-react/",
+      "code": "https://github.com/ahsanq46/weather-react"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "HTML/CSS JS Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://ahsanq46.github.io/resume-gen/",
+      "code": "https://github.com/ahsanq46/resume-gen"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "An elegant and responsive clock built using pure JavaScript, showcasing real-time time updates with clean design.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://famous-stroopwafel-bd3497.netlify.app/",
+      "code": "https://github.com/ahsanq46/elegant-analogue-clock"
+    }
+  },
+  {
+    "name": "Burger Shop",
+    "desc": "A simple burger shop website where users can view the menu, check prices, and fill out a dummy order form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ahsanq46.github.io/BurgerBite-react/",
+      "code": "https://github.com/ahsanq46/BurgerBite-react"
+    }
+  }
+]
