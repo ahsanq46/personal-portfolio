@@ -25,7 +25,11 @@
     "image": "jspro",
     "category": "basicweb",
     "links": {
+<<<<<<< HEAD
       "view": "https://famous-stroopwafel-bd3497.netlify.app/",
+=======
+      "view": "https://analog-clock-app46.netlify.app/",
+>>>>>>> de42302 (Updated portfolio with new sections)
       "code": "https://github.com/ahsanq46/elegant-analogue-clock"
     }
   },
