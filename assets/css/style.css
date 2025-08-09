@@ -1084,6 +1084,42 @@ form .button-area {
     margin-right: 2rem;
   }
 }
+
+/* ✅ Success Toast Styles */
+.toast-success {
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  background-color: #4BB543;
+  color: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  z-index: 9999;
+  animation: fadeInOut 3s ease-in-out forwards;
+}
+
+@keyframes fadeInOut {
+  0% { opacity: 0; transform: translateY(-20px); }
+  10% { opacity: 1; transform: translateY(0); }
+  90% { opacity: 1; }
+  100% { opacity: 0; transform: translateY(-20px); }
+}
+
+/* ✅ Thank You Message Styles */
+.thank-you-message {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #2506ad;
+  font-weight: 600;
+  display: none;
+  margin-top: 1rem;
+  font-family: "Nunito", sans-serif;
+}
+
+
 /* contact section media queries ends */
 /* contact section ends */
 
@@ -1241,5 +1277,7 @@ form .button-area {
   font-size: 24px;        /* Adjusts the font size of the text */
   font-weight: bold;      /* Makes the text bold */
 }
+
+
 
 /* scroll top ends */
